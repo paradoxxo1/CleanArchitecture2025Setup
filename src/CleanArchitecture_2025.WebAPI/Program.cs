@@ -15,7 +15,9 @@ builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddCors();
 builder.Services.AddOpenApi();
-builder.Services.AddControllers().AddOData(opt =>
+builder.Services
+    .AddControllers()
+    .AddOData(opt =>
         opt
         .Select()
         .Filter()
@@ -24,7 +26,6 @@ builder.Services.AddControllers().AddOData(opt =>
         .OrderBy()
         .SetMaxTop(null)
         .AddRouteComponents("odata", AppODataController.GetEdmModel())
-
 );
 
 
@@ -55,9 +56,12 @@ x.AllowAnyHeader()
 
 app.RegisterRoutes();
 
+app.UseAuthentication();   //jwt Token ayarlarý
+app.UseAuthorization();    //jwt Token ayarlarý
+
 app.UseExceptionHandler();
 
-app.MapControllers().RequireRateLimiting("fixed");
+app.MapControllers().RequireRateLimiting("fixed").RequireAuthorization();
 
 ExtensionsMiddleware.CreateFirstUser(app);
 

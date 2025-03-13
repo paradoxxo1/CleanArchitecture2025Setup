@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be200652527ac7c2bd8ef55aa2be6dbb00113d80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca3ba87e8108d230d841b11bbc2b832f50aab77")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

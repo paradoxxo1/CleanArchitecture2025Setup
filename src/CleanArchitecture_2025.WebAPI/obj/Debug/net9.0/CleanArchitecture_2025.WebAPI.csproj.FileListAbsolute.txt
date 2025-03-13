@@ -657,4 +657,4 @@ C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
-C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\obj\Debug\net9.0\CleanArchitecture_2025.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

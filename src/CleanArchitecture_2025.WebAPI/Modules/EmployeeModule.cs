@@ -8,7 +8,7 @@ public static class EmployeeModule
 {
     public static void RegisterEmployeeRoutes(this IEndpointRouteBuilder app)
     {
-        RouteGroupBuilder group = app.MapGroup("/employees").WithTags("Employees");
+        RouteGroupBuilder group = app.MapGroup("/employees").WithTags("Employees").RequireAuthorization();
 
         group.MapPost(string.Empty,
             async (ISender sender, EmployeeCreateCommand request, CancellationToken cancellationToken) =>
