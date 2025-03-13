@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZSmi/tZyo4=",
+  "dgSpecHash": "35tHkQ1k9Xw=",
   "success": true,
-  "projectFilePath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

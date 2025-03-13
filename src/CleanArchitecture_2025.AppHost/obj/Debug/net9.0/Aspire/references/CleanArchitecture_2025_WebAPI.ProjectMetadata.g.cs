@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class CleanArchitecture_2025_WebAPI : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\CleanArchitecture_2025\src\CleanArchitecture_2025.WebAPI\CleanArchitecture_2025.WebAPI.csproj""";
+    public string ProjectPath => """C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\CleanArchitecture_2025.WebAPI.csproj""";
 }

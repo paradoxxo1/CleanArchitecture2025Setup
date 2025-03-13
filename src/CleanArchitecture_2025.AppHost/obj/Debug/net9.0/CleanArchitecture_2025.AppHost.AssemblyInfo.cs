@@ -18,14 +18,14 @@ using System.Reflection;
     "ls\\ext\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\ParadoxXO\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\too" +
     "ls\\ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "CleanArchitecture_2025.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\ParadoxXO\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspir" +
     "e.Dashboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be200652527ac7c2bd8ef55aa2be6dbb00113d80")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchitecture_2025.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

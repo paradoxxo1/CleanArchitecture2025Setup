@@ -22,3 +22,16 @@ C:\CleanArchitecture_2025\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\Cle
 C:\CleanArchitecture_2025\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\refint\CleanArchitecture_2025.Domain.dll
 C:\CleanArchitecture_2025\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.pdb
 C:\CleanArchitecture_2025\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\ref\CleanArchitecture_2025.Domain.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\bin\Debug\net9.0\CleanArchitecture_2025.Domain.deps.json
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\bin\Debug\net9.0\CleanArchitecture_2025.Domain.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\bin\Debug\net9.0\CleanArchitecture_2025.Domain.pdb
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.csproj.AssemblyReference.cache
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.AssemblyInfoInputs.cache
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.AssemblyInfo.cs
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.sourcelink.json
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\refint\CleanArchitecture_2025.Domain.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\CleanArchitecture_2025.Domain.pdb
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.Domain\obj\Debug\net9.0\ref\CleanArchitecture_2025.Domain.dll

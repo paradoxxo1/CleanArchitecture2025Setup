@@ -1,5 +1,32 @@
 [
   {
+    "ContainingType": "CleanArchitecture_2025.WebAPI.Modules.AuthModule\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterAuthRoutes\u003Eb__0_0",
+    "RelativePath": "auth/login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture_2025.Application.Auth.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TS.Result.Result\u00601[[CleanArchitecture_2025.Application.Auth.LoginCommandResponse, CleanArchitecture_2025.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Auth"
+    ]
+  },
+  {
     "ContainingType": "CleanArchitecture_2025.WebAPI.Modules.EmployeeModule\u002B\u003C\u003Ec",
     "Method": "\u003CRegisterEmployeeRoutes\u003Eb__0_0",
     "RelativePath": "employees/",

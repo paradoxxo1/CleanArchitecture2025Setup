@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpYUOenVcD8=",
+  "dgSpecHash": "pHlmaM8S14g=",
   "success": true,
-  "projectFilePath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj",
+  "projectFilePath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj": {}
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj": {
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj",
+        "projectUniqueName": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj",
         "projectName": "CleanArchitecture_2025.AppHost",
-        "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj",
+        "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost\\CleanArchitecture_2025.AppHost.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.AppHost\\obj\\",
+        "outputPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

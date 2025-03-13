@@ -10,7 +10,7 @@ public sealed class Employee : Entity
     public DateOnly BirthOfDate { get; set; }
     public decimal Salary { get; set; }
     public PersonolInformation PersonolInformation { get; set; } = default!;
-    public Address? Address { get; set; }
+    public Address Address { get; set; } = default!;
 
 }
 

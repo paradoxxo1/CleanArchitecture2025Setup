@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj": {}
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj": {
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj",
+        "projectUniqueName": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj",
         "projectName": "CleanArchitecture_2025.Application",
-        "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj",
+        "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\obj\\",
+        "outputPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj": {
-                "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj"
+              "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj": {
+                "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj": {
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj",
+        "projectUniqueName": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj",
         "projectName": "CleanArchitecture_2025.Domain",
-        "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj",
+        "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\obj\\",
+        "outputPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,6 +139,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
             "TS.EntityFrameworkCore.GenericRepository": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -164,14 +168,14 @@
         }
       }
     },
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj": {
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj",
+        "projectUniqueName": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj",
         "projectName": "CleanArchitecture_2025.Infrastructure",
-        "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj",
+        "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Infrastructure\\obj\\",
+        "outputPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,11 +196,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj": {
-                "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj"
+              "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj": {
+                "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj"
               },
-              "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj": {
-                "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj"
+              "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj": {
+                "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj"
               }
             }
           }
@@ -253,14 +257,14 @@
         }
       }
     },
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj": {
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj",
         "projectName": "CleanArchitecture_2025.ServiceDefaults",
-        "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj",
+        "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -351,14 +355,14 @@
         }
       }
     },
-    "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj": {
+    "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj",
+        "projectUniqueName": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj",
         "projectName": "CleanArchitecture_2025.WebAPI",
-        "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj",
+        "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.WebAPI\\CleanArchitecture_2025.WebAPI.csproj",
         "packagesPath": "C:\\Users\\ParadoxXO\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.WebAPI\\obj\\",
+        "outputPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -379,14 +383,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj": {
-                "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj"
+              "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj": {
+                "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Application\\CleanArchitecture_2025.Application.csproj"
               },
-              "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj": {
-                "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj"
+              "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj": {
+                "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj"
               },
-              "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj": {
-                "projectPath": "C:\\CleanArchitecture_2025\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj"
+              "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj": {
+                "projectPath": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.ServiceDefaults\\CleanArchitecture_2025.ServiceDefaults.csproj"
               }
             }
           }

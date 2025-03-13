@@ -22,3 +22,16 @@ C:\CleanArchitecture_2025\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\n
 C:\CleanArchitecture_2025\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\refint\CleanArchitecture_2025.ServiceDefaults.dll
 C:\CleanArchitecture_2025\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.pdb
 C:\CleanArchitecture_2025\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\ref\CleanArchitecture_2025.ServiceDefaults.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\bin\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.deps.json
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\bin\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\bin\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.pdb
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.csproj.AssemblyReference.cache
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.AssemblyInfoInputs.cache
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.AssemblyInfo.cs
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.sourcelink.json
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\refint\CleanArchitecture_2025.ServiceDefaults.dll
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture_2025.ServiceDefaults.pdb
+C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.ServiceDefaults\obj\Debug\net9.0\ref\CleanArchitecture_2025.ServiceDefaults.dll

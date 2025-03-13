@@ -8,5 +8,5 @@ namespace Projects;
 public class CleanArchitecture_2025_AppHost
 {
     private CleanArchitecture_2025_AppHost() { }
-    public static string ProjectPath => """C:\CleanArchitecture_2025\src\CleanArchitecture_2025.AppHost""";
+    public static string ProjectPath => """C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.AppHost""";
 }
