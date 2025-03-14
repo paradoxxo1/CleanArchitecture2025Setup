@@ -1,6 +1,6 @@
 ﻿namespace CleanArchitecture_2025.Domain.Abstractions;
 
-public class Entity
+public abstract class Entity
 {
     public Entity()
     {
@@ -9,7 +9,6 @@ public class Entity
     public Guid Id { get; set; }
 
     #region Audit LOG
-
     public DateTimeOffset CreateAt { get; set; }
     public Guid CreateUserId { get; set; } = default!;
     public DateTimeOffset UpdateAt { get; set; }

@@ -2,6 +2,7 @@
 using CleanArchitecture_2025.Domain.Employees;
 using CleanArchitecture_2025.Domain.Users;
 using GenericRepository;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -30,12 +31,19 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, Identity
     {
         var entries = ChangeTracker.Entries<Entity>();
 
+        HttpContextAccessor httpContextAccessor = new();
+        string userIdString = httpContextAccessor.HttpContext!.User.Claims.First(p => p.Type == "user-id").Value;
+        Guid userId = Guid.Parse(userIdString);
+
         foreach (var entry in entries)
         {
             if (entry.State == EntityState.Added)
             {
                 entry.Property(p => p.CreateAt)
                     .CurrentValue = DateTimeOffset.Now;
+                entry.Property(p => p.CreateUserId)
+                    .CurrentValue = userId;
+
             }
 
             if (entry.State == EntityState.Modified)
@@ -44,11 +52,15 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, Identity
                 {
                     entry.Property(p => p.DeleteAt)
                   .CurrentValue = DateTimeOffset.Now;
+                    entry.Property(p => p.DeleteUserId)
+                   .CurrentValue = userId;
                 }
                 else
                 {
                     entry.Property(p => p.UpdateAt)
                         .CurrentValue = DateTimeOffset.Now;
+                    entry.Property(p => p.UpdateUserId)
+                        .CurrentValue = userId;
                 }
             }
 
