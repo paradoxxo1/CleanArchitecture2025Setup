@@ -1,35 +1,34 @@
-İşte düzeltilmiş ve yeniden düzenlenmiş README dosyası. Açıklamaları daha akıcı ve doğal bir şekilde Türkçe olarak yeniden yazdım ve GitHub linkini belirttiğiniz şekilde güncelledim:
+Ä°ÅŸte dÃ¼zeltilmiÅŸ ve yeniden dÃ¼zenlenmiÅŸ README dosyasÄ±. AÃ§Ä±klamalarÄ± daha akÄ±cÄ± ve doÄŸal bir ÅŸekilde TÃ¼rkÃ§e olarak yeniden yazdÄ±m ve GitHub linkini belirttiÄŸiniz ÅŸekilde gÃ¼ncelledim:
 
 ---
 
-# 2025 Yılı Clean Architecture Kurulumu
+# 2025 YÄ±lÄ± Clean Architecture Kurulumu
 
-Bu depoda, 2025 yılı projelerinizde başlangıç noktası olarak kullanabileceğiniz, güncel, modüler ve temiz bir Clean Architecture yapısı sunulmaktadır. Modern yazılım geliştirme pratiklerini destekleyen bu yapı, projelerinizi düzenli ve ölçeklenebilir bir şekilde geliştirmenize olanak tanır.
+Bu depoda, 2025 yÄ±lÄ± projelerinizde baÅŸlangÄ±Ã§ noktasÄ± olarak kullanabileceÄŸiniz, gÃ¼ncel, modÃ¼ler ve temiz bir Clean Architecture yapÄ±sÄ± sunulmaktadÄ±r. Modern yazÄ±lÄ±m geliÅŸtirme pratiklerini destekleyen bu yapÄ±, projelerinizi dÃ¼zenli ve Ã¶lÃ§eklenebilir bir ÅŸekilde geliÅŸtirmenize olanak tanÄ±r.
 
-## Proje Detayları
+## Proje DetaylarÄ±
 
-### Mimari Yapı
+### Mimari YapÄ±
 - **Mimari Desen**: Clean Architecture
-- **Tasarım Desenleri**:
-  - Result Pattern (Sonuç Deseni)
+- **TasarÄ±m Desenleri**:
+  - Result Pattern (SonuÃ§ Deseni)
   - Repository Pattern (Depo Deseni)
-  - CQRS Pattern (Komut ve Sorgu Ayrımı Deseni)
-  - UnitOfWork Pattern (İş Birimi Deseni)
+  - CQRS Pattern (Komut ve Sorgu AyrÄ±mÄ± Deseni)
+  - UnitOfWork Pattern (Ä°ÅŸ Birimi Deseni)
 
-### Kullanılan Kütüphaneler
-- **MediatR**: CQRS uygulamaları ve mesajlaşma işlemleri için.
-- **TS.Result**: Standartlaştırılmış sonuç modelleri oluşturmak için.
-- **Mapster**: Nesneler arası eşleme işlemleri için.
-- **FluentValidation**: Doğrulama süreçlerini kolaylaştırmak için.
-- **TS.EntityFrameworkCore.GenericRepository**: Genel repository işlemleri için.
-- **EntityFrameworkCore**: Veritabanı ile nesne ilişkisel eşleme (ORM) için.
-- **OData**: Esnek sorgulama ve veri erişimi sağlamak için.
-- **Scrutor**: Bağımlılık enjeksiyonu yönetimi ve dinamik servis kaydı için.
-- **Microsoft.AspNetCore.Authentication.JwtBearer**: Kimlik doğrulama işlemleri için.
-- **Keycloak.AuthServices.Authentication**: Keycloak ile kimlik doğrulama entegrasyonu için.
+### KullanÄ±lan KÃ¼tÃ¼phaneler
+- **MediatR**: CQRS uygulamalarÄ± ve mesajlaÅŸma iÅŸlemleri iÃ§in.
+- **TS.Result**: StandartlaÅŸtÄ±rÄ±lmÄ±ÅŸ sonuÃ§ modelleri oluÅŸturmak iÃ§in.
+- **Mapster**: Nesneler arasÄ± eÅŸleme iÅŸlemleri iÃ§in.
+- **FluentValidation**: DoÄŸrulama sÃ¼reÃ§lerini kolaylaÅŸtÄ±rmak iÃ§in.
+- **TS.EntityFrameworkCore.GenericRepository**: Genel repository iÅŸlemleri iÃ§in.
+- **EntityFrameworkCore**: VeritabanÄ± ile nesne iliÅŸkisel eÅŸleme (ORM) iÃ§in.
+- **OData**: Esnek sorgulama ve veri eriÅŸimi saÄŸlamak iÃ§in.
+- **Scrutor**: BaÄŸÄ±mlÄ±lÄ±k enjeksiyonu yÃ¶netimi ve dinamik servis kaydÄ± iÃ§in.
+- **Microsoft.AspNetCore.Authentication.JwtBearer**: Kimlik doÄŸrulama iÅŸlemleri iÃ§in.
 
-## Kurulum ve Kullanım
-1. **Depoyu Klonlayın**:
+## Kurulum ve KullanÄ±m
+1. **Depoyu KlonlayÄ±n**:
    ```bash
    git clone https://github.com/paradoxxo1/CleanArchitecture2025Setup.git
    cd CleanArchitecture2025Setup
