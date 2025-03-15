@@ -6,6 +6,9 @@
 
 Bu depoda, 2025 yılı projelerinizde başlangıç noktası olarak kullanabileceğiniz, güncel, modüler ve temiz bir Clean Architecture yapısı sunulmaktadır. Modern yazılım geliştirme pratiklerini destekleyen bu yapı, projelerinizi düzenli ve ölçeklenebilir bir şekilde geliştirmenize olanak tanır.
 
+![Animasyon Açıklaması](https://miro.medium.com/v2/resize:fit:640/format:webp/0*-zb6YNGuvWK7-EAb.gif)
+
+
 ## Proje Detayları
 
 ### Mimari Yapı
