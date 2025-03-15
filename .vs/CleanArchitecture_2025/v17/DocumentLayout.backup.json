@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CleanArchitecture2025Setup\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{81A6C97C-64F8-3CC9-9FD8-5DD4757BB7CD}|src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj|c:\\cleanarchitecture2025setup\\src\\cleanarchitecture_2025.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A6C97C-64F8-3CC9-9FD8-5DD4757BB7CD}|src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture_2025.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A6C97C-64F8-3CC9-9FD8-5DD4757BB7CD}|src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj|c:\\cleanarchitecture2025setup\\src\\cleanarchitecture_2025.infrastructure\\service\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A6C97C-64F8-3CC9-9FD8-5DD4757BB7CD}|src\\CleanArchitecture_2025.Infrastructure\\CleanArchitecture_2025.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture_2025.infrastructure\\service\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED5F6002-C4FF-C494-AEF3-A3BDECB70409}|src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj|c:\\cleanarchitecture2025setup\\src\\cleanarchitecture_2025.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5F6002-C4FF-C494-AEF3-A3BDECB70409}|src\\CleanArchitecture_2025.Domain\\CleanArchitecture_2025.Domain.csproj|solutionrelative:src\\cleanarchitecture_2025.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\Service\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "src\\CleanArchitecture_2025.Infrastructure\\Service\\JwtProvider.cs",
-              "ToolTip": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\Service\\JwtProvider.cs",
-              "RelativeToolTip": "src\\CleanArchitecture_2025.Infrastructure\\Service\\JwtProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:31:14.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\CleanArchitecture_2025.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\CleanArchitecture_2025.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:21:41.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\Abstractions\\Entity.cs",
-              "RelativeDocumentMoniker": "src\\CleanArchitecture_2025.Domain\\Abstractions\\Entity.cs",
-              "ToolTip": "C:\\CleanArchitecture2025Setup\\src\\CleanArchitecture_2025.Domain\\Abstractions\\Entity.cs",
-              "RelativeToolTip": "src\\CleanArchitecture_2025.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:20:24.686Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

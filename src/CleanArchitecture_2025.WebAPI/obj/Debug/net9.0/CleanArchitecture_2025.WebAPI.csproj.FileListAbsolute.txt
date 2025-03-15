@@ -539,7 +539,6 @@ C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\System.Text.Json.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\GenericRepository.dll
 C:\CleanArchitecture2025Setup\src\CleanArchitecture_2025.WebAPI\bin\Debug\net9.0\TS.Result.dll

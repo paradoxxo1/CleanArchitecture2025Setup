@@ -54,6 +54,33 @@
     ]
   },
   {
+    "ContainingType": "CleanArchitecture_2025.WebAPI.Modules.EmployeeModule\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterEmployeeRoutes\u003Eb__0_1",
+    "RelativePath": "employees/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TS.Result.Result\u00601[[CleanArchitecture_2025.Domain.Employees.Employee, CleanArchitecture_2025.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Employees"
+    ]
+  },
+  {
     "ContainingType": "CleanArchitecture_2025.WebAPI.Controllers.AppODataController",
     "Method": "GetAllEmployees",
     "RelativePath": "odata/employees",

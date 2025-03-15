@@ -10,6 +10,11 @@ using System.Threading.RateLimiting;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddResponseCompression(opt =>
+{
+    opt.EnableForHttps = true;
+});
+
 builder.AddServiceDefaults();
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
@@ -42,11 +47,12 @@ builder.Services.AddExceptionHandler<ExceptionHandler>().AddProblemDetails();
 
 var app = builder.Build();
 
-
 app.MapOpenApi();
 app.MapScalarApiReference();
 
 app.MapDefaultEndpoints();
+
+app.UseHttpsRedirection();  //SSL desteði zorunlu hale getiriliyor.
 
 app.UseCors(x =>
 x.AllowAnyHeader()
@@ -58,6 +64,8 @@ app.RegisterRoutes();
 
 app.UseAuthentication();   //jwt Token ayarlarý
 app.UseAuthorization();    //jwt Token ayarlarý
+
+app.UseResponseCompression();
 
 app.UseExceptionHandler();
 
